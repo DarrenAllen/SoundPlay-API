@@ -40,4 +40,11 @@ example:
 // ROUTES //
 ////////////
 
-exports.routes = {};
+exports.routes = {
+  get: [
+    { path: '/teams/:id', action: 'getTeam' } 
+  ],
+  post: [
+    { path: '/teams/:id', action: 'postTeam' } 
+  ]
+};

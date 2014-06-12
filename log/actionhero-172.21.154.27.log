@@ -1,0 +1,132 @@
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2014-06-12T21:25:19.552Z"}
+{"level":"notice","message":"running in development mode","timestamp":"2014-06-12T21:25:19.655Z"}
+{"level":"info","message":"environment: development","timestamp":"2014-06-12T21:25:19.656Z"}
+{"level":"notice","message":"pid: 37651","timestamp":"2014-06-12T21:25:19.660Z"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2014-06-12T21:25:19.686Z"}
+{"level":"notice","message":"starting server: web","timestamp":"2014-06-12T21:25:19.690Z"}
+{"level":"notice","message":"starting server: websocket","timestamp":"2014-06-12T21:25:19.692Z"}
+{"level":"notice","message":"webSockets bound to 0.0.0.0:8080 mounted at /faye","timestamp":"2014-06-12T21:25:19.692Z"}
+{"level":"notice","message":"server ID: 172.21.154.27","timestamp":"2014-06-12T21:25:20.688Z"}
+{"level":"notice","message":"*** Server Started @ 2014-06-12 16:25:19 ***","timestamp":"2014-06-12T21:25:20.688Z"}
+{"level":"info","message":"Points:","timestamp":"2014-06-12T21:25:26.418Z"}
+{"to":"127.0.0.1","action":"postTeam","params":"{\"points\":5,\"id\":\"2\",\"action\":\"postTeam\",\"apiVersion\":1}","duration":4,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2014-06-12T21:25:26.426Z"}
+{"level":"info","message":"Points:","timestamp":"2014-06-12T21:26:08.444Z"}
+{"to":"127.0.0.1","action":"postTeam","params":"{\"points\":5,\"id\":\"2\",\"action\":\"postTeam\",\"apiVersion\":1}","duration":2,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2014-06-12T21:26:08.447Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2014-06-12T21:28:19.389Z"}
+{"level":"notice","message":"stopping server: web","timestamp":"2014-06-12T21:28:19.398Z"}
+{"level":"notice","message":"stopping server: websocket","timestamp":"2014-06-12T21:28:19.398Z"}
+{"level":"alert","message":"The actionhero has been stopped","timestamp":"2014-06-12T21:28:19.907Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2014-06-12T21:28:21.609Z"}
+{"level":"notice","message":"running in development mode","timestamp":"2014-06-12T21:28:21.713Z"}
+{"level":"info","message":"environment: development","timestamp":"2014-06-12T21:28:21.714Z"}
+{"level":"notice","message":"pid: 37723","timestamp":"2014-06-12T21:28:21.718Z"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2014-06-12T21:28:21.742Z"}
+{"level":"notice","message":"starting server: web","timestamp":"2014-06-12T21:28:21.746Z"}
+{"level":"notice","message":"starting server: websocket","timestamp":"2014-06-12T21:28:21.748Z"}
+{"level":"notice","message":"webSockets bound to 0.0.0.0:8080 mounted at /faye","timestamp":"2014-06-12T21:28:21.749Z"}
+{"level":"notice","message":"server ID: 172.21.154.27","timestamp":"2014-06-12T21:28:22.744Z"}
+{"level":"notice","message":"*** Server Started @ 2014-06-12 16:28:21 ***","timestamp":"2014-06-12T21:28:22.745Z"}
+{"level":"info","message":"Points:","timestamp":"2014-06-12T21:28:31.010Z"}
+{"to":"127.0.0.1","action":"postTeam","params":"{\"points\":5,\"id\":\"2\",\"action\":\"postTeam\",\"apiVersion\":1}","duration":4,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2014-06-12T21:28:31.018Z"}
+{"level":"info","message":"Points:","timestamp":"2014-06-12T21:29:14.331Z"}
+{"to":"127.0.0.1","action":"postTeam","params":"{\"points\":5,\"id\":\"2\",\"action\":\"postTeam\",\"apiVersion\":1}","duration":2,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2014-06-12T21:29:14.335Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2014-06-12T21:29:48.340Z"}
+{"level":"notice","message":"stopping server: web","timestamp":"2014-06-12T21:29:48.345Z"}
+{"level":"notice","message":"stopping server: websocket","timestamp":"2014-06-12T21:29:48.346Z"}
+{"level":"alert","message":"The actionhero has been stopped","timestamp":"2014-06-12T21:29:48.851Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2014-06-12T21:29:51.068Z"}
+{"level":"notice","message":"running in development mode","timestamp":"2014-06-12T21:29:51.168Z"}
+{"level":"info","message":"environment: development","timestamp":"2014-06-12T21:29:51.169Z"}
+{"level":"notice","message":"pid: 37769","timestamp":"2014-06-12T21:29:51.173Z"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2014-06-12T21:29:51.200Z"}
+{"level":"notice","message":"starting server: web","timestamp":"2014-06-12T21:29:51.205Z"}
+{"level":"notice","message":"starting server: websocket","timestamp":"2014-06-12T21:29:51.207Z"}
+{"level":"notice","message":"webSockets bound to 0.0.0.0:8080 mounted at /faye","timestamp":"2014-06-12T21:29:51.208Z"}
+{"level":"notice","message":"server ID: 172.21.154.27","timestamp":"2014-06-12T21:29:52.199Z"}
+{"level":"notice","message":"*** Server Started @ 2014-06-12 16:29:51 ***","timestamp":"2014-06-12T21:29:52.200Z"}
+{"level":"error","message":"! uncaught error from action: postTeam","timestamp":"2014-06-12T21:29:58.620Z"}
+{"level":"error","message":"! connection details:","timestamp":"2014-06-12T21:29:58.620Z"}
+{"level":"error","message":"!     action: \"postTeam\"","timestamp":"2014-06-12T21:29:58.621Z"}
+{"level":"error","message":"!     remoteIP: \"127.0.0.1\"","timestamp":"2014-06-12T21:29:58.621Z"}
+{"level":"error","message":"!     type: \"web\"","timestamp":"2014-06-12T21:29:58.621Z"}
+{"level":"error","message":"!     params: {\"points\":5,\"id\":\"2\",\"action\":\"postTeam\",\"apiVersion\":1}","timestamp":"2014-06-12T21:29:58.621Z"}
+{"level":"error","message":"! ReferenceError: score is not defined","timestamp":"2014-06-12T21:29:58.628Z"}
+{"level":"error","message":"!     at Object.action.run (/Users/Darren/personal/SoundPlay-API/actions/postTeam.js:21:28)","timestamp":"2014-06-12T21:29:58.628Z"}
+{"level":"error","message":"!     at /Users/Darren/personal/SoundPlay-API/node_modules/actionhero/initializers/actionProcessor.js:217:37","timestamp":"2014-06-12T21:29:58.628Z"}
+{"level":"error","message":"!     at api.actionProcessor.preProcessAction (/Users/Darren/personal/SoundPlay-API/node_modules/actionhero/initializers/actionProcessor.js:102:7)","timestamp":"2014-06-12T21:29:58.628Z"}
+{"level":"error","message":"!     at Object._onImmediate (/Users/Darren/personal/SoundPlay-API/node_modules/actionhero/initializers/actionProcessor.js:213:18)","timestamp":"2014-06-12T21:29:58.629Z"}
+{"level":"error","message":"!     at processImmediate [as _immediateCallback] (timers.js:330:15)","timestamp":"2014-06-12T21:29:58.633Z"}
+{"level":"error","message":"*","timestamp":"2014-06-12T21:29:58.633Z"}
+{"to":"127.0.0.1","action":"postTeam","params":"{\"points\":5,\"id\":\"2\",\"action\":\"postTeam\",\"apiVersion\":1}","duration":19,"error":"\"Error: The server experienced an internal error\"","level":"info","message":"[ action @ web ]","timestamp":"2014-06-12T21:29:58.642Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2014-06-12T21:30:46.651Z"}
+{"level":"notice","message":"stopping server: web","timestamp":"2014-06-12T21:30:46.656Z"}
+{"level":"notice","message":"stopping server: websocket","timestamp":"2014-06-12T21:30:46.657Z"}
+{"level":"alert","message":"The actionhero has been stopped","timestamp":"2014-06-12T21:30:47.164Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2014-06-12T21:30:52.225Z"}
+{"level":"notice","message":"running in development mode","timestamp":"2014-06-12T21:30:52.329Z"}
+{"level":"info","message":"environment: development","timestamp":"2014-06-12T21:30:52.329Z"}
+{"level":"notice","message":"pid: 37809","timestamp":"2014-06-12T21:30:52.334Z"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2014-06-12T21:30:52.360Z"}
+{"level":"notice","message":"starting server: web","timestamp":"2014-06-12T21:30:52.364Z"}
+{"level":"notice","message":"starting server: websocket","timestamp":"2014-06-12T21:30:52.365Z"}
+{"level":"notice","message":"webSockets bound to 0.0.0.0:8080 mounted at /faye","timestamp":"2014-06-12T21:30:52.366Z"}
+{"level":"notice","message":"server ID: 172.21.154.27","timestamp":"2014-06-12T21:30:53.361Z"}
+{"level":"notice","message":"*** Server Started @ 2014-06-12 16:30:52 ***","timestamp":"2014-06-12T21:30:53.361Z"}
+{"to":"127.0.0.1","action":"postTeam","params":"{\"points\":5,\"id\":\"2\",\"action\":\"postTeam\",\"apiVersion\":1}","duration":4,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2014-06-12T21:31:01.643Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2014-06-12T21:32:25.176Z"}
+{"level":"notice","message":"stopping server: web","timestamp":"2014-06-12T21:32:25.182Z"}
+{"level":"notice","message":"stopping server: websocket","timestamp":"2014-06-12T21:32:25.183Z"}
+{"level":"alert","message":"The actionhero has been stopped","timestamp":"2014-06-12T21:32:25.687Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2014-06-12T21:32:29.988Z"}
+{"level":"notice","message":"running in development mode","timestamp":"2014-06-12T21:32:30.104Z"}
+{"level":"info","message":"environment: development","timestamp":"2014-06-12T21:32:30.105Z"}
+{"level":"notice","message":"pid: 37855","timestamp":"2014-06-12T21:32:30.109Z"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2014-06-12T21:32:30.134Z"}
+{"level":"notice","message":"starting server: web","timestamp":"2014-06-12T21:32:30.138Z"}
+{"level":"notice","message":"starting server: websocket","timestamp":"2014-06-12T21:32:30.140Z"}
+{"level":"notice","message":"webSockets bound to 0.0.0.0:8080 mounted at /faye","timestamp":"2014-06-12T21:32:30.140Z"}
+{"level":"notice","message":"server ID: 172.21.154.27","timestamp":"2014-06-12T21:32:31.134Z"}
+{"level":"notice","message":"*** Server Started @ 2014-06-12 16:32:30 ***","timestamp":"2014-06-12T21:32:31.134Z"}
+{"to":"127.0.0.1","action":"postTeam","params":"{\"points\":5,\"id\":\"2\",\"action\":\"postTeam\",\"apiVersion\":1}","duration":5,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2014-06-12T21:32:35.313Z"}
+{"to":"127.0.0.1","action":"postTeam","params":"{\"points\":5,\"id\":\"2\",\"action\":\"postTeam\",\"apiVersion\":1}","duration":1,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2014-06-12T21:35:37.312Z"}
+{"level":"info","message":"HM 8","timestamp":"2014-06-12T21:35:37.313Z"}
+{"to":"127.0.0.1","action":"postTeam","params":"{\"points\":5,\"id\":\"2\",\"action\":\"postTeam\",\"apiVersion\":1}","duration":2,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2014-06-12T21:38:02.017Z"}
+{"to":"127.0.0.1","action":"postTeam","params":"{\"points\":5,\"id\":\"2\",\"action\":\"postTeam\",\"apiVersion\":1}","duration":2,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2014-06-12T21:38:05.704Z"}
+{"to":"127.0.0.1","action":"postTeam","params":"{\"points\":5,\"id\":\"2\",\"action\":\"postTeam\",\"apiVersion\":1}","duration":1,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2014-06-12T21:38:08.238Z"}
+{"to":"127.0.0.1","action":"getTeam","params":"{\"id\":\"2\",\"action\":\"getTeam\",\"apiVersion\":1}","duration":1,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2014-06-12T21:39:45.254Z"}
+{"level":"info","message":"\r\n\r\n*** rebooting due to initializer change (/Users/Darren/personal/SoundPlay-API/node_modules/actionhero/initializers/redis.js) ***\r\n\r\n","timestamp":"2014-06-12T21:40:03.843Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2014-06-12T21:40:03.844Z"}
+{"level":"notice","message":"stopping server: web","timestamp":"2014-06-12T21:40:03.846Z"}
+{"level":"notice","message":"stopping server: websocket","timestamp":"2014-06-12T21:40:03.846Z"}
+{"level":"alert","message":"The actionhero has been stopped","timestamp":"2014-06-12T21:40:04.349Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2014-06-12T21:40:04.369Z"}
+{"level":"notice","message":"running in development mode","timestamp":"2014-06-12T21:40:04.374Z"}
+{"level":"info","message":"environment: development","timestamp":"2014-06-12T21:40:04.375Z"}
+{"level":"notice","message":"pid: 37855","timestamp":"2014-06-12T21:40:04.375Z"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2014-06-12T21:40:04.378Z"}
+{"level":"notice","message":"starting server: web","timestamp":"2014-06-12T21:40:04.379Z"}
+{"level":"notice","message":"starting server: websocket","timestamp":"2014-06-12T21:40:04.379Z"}
+{"level":"notice","message":"webSockets bound to 0.0.0.0:8080 mounted at /faye","timestamp":"2014-06-12T21:40:04.379Z"}
+{"level":"notice","message":"server ID: 172.21.154.27","timestamp":"2014-06-12T21:40:05.378Z"}
+{"level":"notice","message":"*** Server Started @ 2014-06-12 16:40:04 ***","timestamp":"2014-06-12T21:40:05.378Z"}
+{"level":"notice","message":"actionhero restarted","timestamp":"2014-06-12T21:40:05.378Z"}
+{"to":"127.0.0.1","action":"getTeam","params":"{\"id\":\"2\",\"action\":\"getTeam\",\"apiVersion\":1}","duration":1,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2014-06-12T21:40:16.512Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2014-06-12T21:40:20.667Z"}
+{"level":"notice","message":"stopping server: web","timestamp":"2014-06-12T21:40:20.669Z"}
+{"level":"notice","message":"stopping server: websocket","timestamp":"2014-06-12T21:40:20.669Z"}
+{"level":"alert","message":"The actionhero has been stopped","timestamp":"2014-06-12T21:40:21.172Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2014-06-12T21:40:23.342Z"}
+{"level":"notice","message":"running in development mode","timestamp":"2014-06-12T21:40:23.423Z"}
+{"level":"info","message":"environment: development","timestamp":"2014-06-12T21:40:23.423Z"}
+{"level":"notice","message":"pid: 38090","timestamp":"2014-06-12T21:40:23.424Z"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2014-06-12T21:40:23.441Z"}
+{"level":"notice","message":"starting server: web","timestamp":"2014-06-12T21:40:23.443Z"}
+{"level":"notice","message":"starting server: websocket","timestamp":"2014-06-12T21:40:23.444Z"}
+{"level":"notice","message":"webSockets bound to 0.0.0.0:8080 mounted at /faye","timestamp":"2014-06-12T21:40:23.444Z"}
+{"level":"notice","message":"server ID: 172.21.154.27","timestamp":"2014-06-12T21:40:24.442Z"}
+{"level":"notice","message":"*** Server Started @ 2014-06-12 16:40:23 ***","timestamp":"2014-06-12T21:40:24.443Z"}
+{"to":"127.0.0.1","action":"getTeam","params":"{\"id\":\"2\",\"action\":\"getTeam\",\"apiVersion\":1}","duration":2,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2014-06-12T21:40:26.281Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2014-06-12T21:40:36.050Z"}
+{"level":"notice","message":"stopping server: web","timestamp":"2014-06-12T21:40:36.052Z"}
+{"level":"notice","message":"stopping server: websocket","timestamp":"2014-06-12T21:40:36.052Z"}
+{"level":"alert","message":"The actionhero has been stopped","timestamp":"2014-06-12T21:40:36.556Z"}

@@ -6,8 +6,12 @@
 exports.default = { 
   redis: function(api){
     return {
-      package: 'fakeredis',
-
+      package: 'redis',
+      host: '127.0.0.1',
+      port: 6379,
+      password: null,
+      options: null,
+      database: 0
       // package: 'redis',
       // host: '127.0.0.1',
       // port: 6379,
